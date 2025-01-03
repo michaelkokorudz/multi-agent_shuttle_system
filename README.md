@@ -16,6 +16,13 @@ For a detailed explanation of the project, its methodology, and results, check o
 2. Clone the repository:
    ```bash
    git clone https://github.com/michaelkokorudz/multi-agent_shuttle_system.git
+3. Open the file `run_lloyds.m` in MATLAB to adjust simulation parameters:
+   - **Number of agents**: This parameter defines the total number of shuttles in the system. Adjust this value in the script to suit your simulation requirements.
+   - **Density hotspots**: Modify the locations and intensities of high-population regions in the `density_map.m` file. These areas represent high demand for shuttle services.
+4. Run the `run_lloyds.m` file in MATLAB to start the simulation:
+   ```matlab
+   run_lloyds
+
 
 
 ## Problem Statement
