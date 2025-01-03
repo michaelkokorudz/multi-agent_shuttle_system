@@ -1,0 +1,19 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore MATLAB temporary files
+*.asv
+*.mex*
+*.mltbx
+*.mat
+
+# Ignore data files
+lloyds_output.*
+*.csv
+
+# Ignore other temporary files
+*.tmp
+*.log
+
+# Ignore folders
+lloyds_data/
