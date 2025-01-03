@@ -4,6 +4,22 @@ This project develops an optimized shuttle system for Queen’s University stude
 
 ---
 
+## Report
+
+For a detailed explanation of the project, its methodology, and results, check out the full report:  
+**[Multi-Agent Shuttle System Report](https://github.com/michaelkokorudz/multi-agent_shuttle_system/blob/main/Multi-Agent.Shuttle.System.Report.pdf)**
+
+---
+
+## Running the Simulation
+
+### **Setup**
+1. Ensure MATLAB R2021b or later is installed.
+2. Clone the repository:
+   ```bash
+   git clone https://github.com/michaelkokorudz/multi-agent_shuttle_system.git
+
+
 ## Problem Statement
 
 Queen’s University students face significant challenges commuting during winter:
