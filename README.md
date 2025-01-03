@@ -22,7 +22,7 @@ For a detailed explanation of the project, its methodology, and results, check o
 4. Run the `run_lloyds.m` file in MATLAB to start the simulation:
    ```matlab
    run_lloyds
-
+This initializes the agents, sets up the environment, and begins the simulation based on the defined parameters.
 
 
 ## Problem Statement
