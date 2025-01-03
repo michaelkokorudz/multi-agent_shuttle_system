@@ -2,14 +2,12 @@
 
 This project develops an optimized shuttle system for Queen’s University students using **multi-agent systems** and **Lloyd's Algorithm**. It addresses transportation inefficiencies caused by harsh winters, long walking distances, and insufficient public transit, offering a safer, more efficient, and environmentally friendly solution.
 
----
 
 ## Report
 
 For a detailed explanation of the project, its methodology, and results, check out the full report:  
 **[Multi-Agent Shuttle System Report](https://github.com/michaelkokorudz/multi-agent_shuttle_system/blob/main/Multi-Agent.Shuttle.System.Report.pdf)**
 
----
 
 ## Running the Simulation
 
@@ -32,7 +30,6 @@ Queen’s University students face significant challenges commuting during winte
 - Reduce environmental impact by limiting private vehicle use.
 - Enhance accessibility for all students.
 
----
 
 ## Features
 
@@ -53,7 +50,4 @@ Queen’s University students face significant challenges commuting during winte
 - Animates shuttle movements, communication links, and population densities.
 - Provides insights into system behavior over time.
 
----
-
-## Project Structure
 
